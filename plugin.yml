@@ -1,0 +1,5 @@
+name: WorldAnnouncer
+main: me.drunkenmeows.worldannouncer.WorldAnnouncer
+version: '0.1'
+author: drunkenmeows
+description: worldannouner

@@ -1,0 +1,27 @@
+#world name the hunt will take place
+Worlds: 
+  - pve
+  - main
+  - hub
+
+pve:
+  Repeat: 10
+  Messages:
+    - pve1
+    - pve2
+    - pve3
+    
+main:
+  Repeat: 10
+  Messages:
+    - main1
+    - main2
+    - main3
+    
+hub:
+  Repeat: 10
+  Messages:
+    - hub1
+    - hub2
+    - hub3
+    
